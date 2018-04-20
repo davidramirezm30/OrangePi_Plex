@@ -23,9 +23,9 @@ Para acceder a la Orange Pi yo utilizo el bash de windows. La IP de mi Orange Pi
 Una vez dentro lo primero que hay que hacer es poner _dietpi-launcher_. Desde este menú se puede acceder a todos los menús principales que tiene DietPi y que facilita mucho la instalación.
 
 Después de esto elegir Dietpi-Software y dentro de este menú entrar de nuevo en Software Optimized. Dentro de este menú seleccionar con la tecla espacio lo que queréis instalar, en mi caso yo he instalado:
-..* 42  Plex Media Server: web interface media streaming server
-..* 146 PlexPy: monitoring and tracking tool for Plex
-..* 44  Transmission: bittorrent server with a web interface (c)
-..* 67  NoIp: url website address for your device
-..* 
++ 42  Plex Media Server: web interface media streaming server
++ 146 PlexPy: monitoring and tracking tool for Plex
++ 44  Transmission: bittorrent server with a web interface (c)
++ 67  NoIp: url website address for your device
+ 
 
